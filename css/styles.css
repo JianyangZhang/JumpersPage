@@ -380,7 +380,6 @@ textarea {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 650px;
     overflow:hidden;
 }
 
@@ -406,17 +405,18 @@ textarea {
     text-align: center;
     transform: translateY(-50%);
 }
-
+/*
 .gallery-box:hover .gallery-box-caption {
     opacity: 1;
 }
-
+*/
+/*
 .gallery-box:hover img {
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     transform: scale(1.1);
 }
-
+*/
 .gallery-box img {
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
